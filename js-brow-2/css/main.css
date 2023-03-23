@@ -9,7 +9,7 @@
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    border: 1px solid #ccc;
+
   }
   
   h1 {
@@ -175,6 +175,10 @@ input[type="checkbox"] {
   .filter-btn.active.filter-all {
     background-color: rgb(233, 86, 120);
     color: white;
+  }
+  #delete-btn {
+    display: block;
+    margin: 0 auto;
   }
   
 
